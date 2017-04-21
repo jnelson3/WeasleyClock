@@ -1,0 +1,13 @@
+[
+    {
+      "name": "",
+      "locations": [
+        {
+          "locationName": "home",
+          "lat": ,
+          "lon": ,
+          "radius": 200
+        }
+      ]
+    }
+]
